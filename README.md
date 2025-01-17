@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![xiaohui's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-xiaohui&layout=compact&theme=radical)
+![xiaohui's langs stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gu-xiaohui&layout=compact&theme=radical&count_private=true)
 
 ![xiaohui's github stats](https://github-readme-stats.vercel.app/api?username=gu-xiaohui&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
